@@ -38,7 +38,6 @@ const colors = [
 ];
 
 // here is a helper function to shuffle an array
-// it returns the same array with values shuffled
 // it is based on an algorithm called Fisher Yates if you want ot research more
 function shuffle(array) {
 	let counter = array.length;
