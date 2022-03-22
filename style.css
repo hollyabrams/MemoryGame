@@ -11,6 +11,16 @@ h1 {
 	font-weight: 400;
 }
 
+p {
+	font-family: Poppins, sans-serif, monospace;
+	color: white;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	padding-bottom: 24px;
+	letter-spacing: .2rem;
+}
+
 .letter {
 	transition: color 1000ms;
 }
